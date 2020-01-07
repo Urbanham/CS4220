@@ -132,7 +132,7 @@ Homework/Lab/Exercises may be submitted up to 24 hours late with a 15 point late
 <hr/>
 
 **Slack** <br/>
-[Sign Up Here]()
+[Sign Up Here](https://join.slack.com/t/professor-auman/shared_invite/enQtODk2ODI3Mzk4OTc2LTA5MDI4MDkyYWRiOWY4M2M3MWY3NjNhMGYxYjdjNWJlM2ZmNzQ5MTRmMmFiN2Q4MDdjMzlkYmIxNzY3YzE5MjE)
 
 <hr/>
 
