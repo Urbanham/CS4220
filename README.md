@@ -1,4 +1,4 @@
-## CS 4220
+## CS 4220 Syllabus
 #### Current Trends in Web Development
 #### Application Design and Development with Node.js
 
@@ -22,13 +22,13 @@ Time: 2:00pm - 4:00pm (Must be schedule in advance)<br/>
 Professor Cydney Auman <br/>
 Email: cydneyauman@gmail.com
 
+<hr/>
 
 **Course Description:** <br/>
 This course will cover JavaScript and Node.js. It will begin with a discussion on the fundamentals of JavaScript, including syntax, functions, classes, callbacks/promises, async await, the eventloop, and more. Then the class will jump into teaching the Node.js platform through command line applications and then move onto building a Node.js Server.  This class will also discuss interacting with APIs via HTTP methods GET, POST, PUT and DELETE to execute operations. The course will have several homework assignments and quizzes.
 
 **Course Structure** <br/>
 This course is to be conducted in face-to-face lectures.  All lecture materials including the syllabus, slides and examples will be available on Github. All homework/lab assignments and/or quizzes will be submitted via CSNS.  This course also offers a Slack channel to facilitate communication throughout the course.
-
 
 **Recommended Prerequisites:** <br/>
 CS1220, CS2011, CS3220 <br/>
@@ -57,11 +57,6 @@ Please submit all assignments via CSNS - http://csns.calstatela.edu/
 Homework/Lab/Exercises may be submitted up to 24 hours late with a 15 point late penalty deduction.  After the 24 hour grace period, **no** additional submissions will be accepted and a grade of 0 will be given for the assignment.
 
 **NO** late Midterm or Finals. No late Quizzes.  If a student is not in attendance during the Midterm or Final or Quiz they will receive a 0 on that exam.
-
-<hr/>
-
-**Slack** <br/>
-[Sign Up Here]()
 
 <hr/>
 
@@ -134,6 +129,10 @@ Homework/Lab/Exercises may be submitted up to 24 hours late with a 15 point late
 
 <br/>
 
+<hr/>
+
+**Slack** <br/>
+[Sign Up Here]()
 
 <hr/>
 
