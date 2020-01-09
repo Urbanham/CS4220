@@ -131,7 +131,7 @@ Homework/Lab/Exercises may be submitted up to 24 hours late with a 15 point late
 
 <hr/>
 
-**Slack** <br/>
+### SLACK
 Slack is an online collaboration hub that can replace email to help people work together seamlessly. Throughout the course you can reach me on Slack anytime, post to the public CS4220 channel and even get updates about what course materials have been published to this github repo.  It is much like Google Hangouts and Discord.
 
 [CS4220 Slack Channel Sign Up](https://join.slack.com/t/professor-auman/shared_invite/enQtODk2ODI3Mzk4OTc2LTA5MDI4MDkyYWRiOWY4M2M3MWY3NjNhMGYxYjdjNWJlM2ZmNzQ5MTRmMmFiN2Q4MDdjMzlkYmIxNzY3YzE5MjE)
@@ -141,16 +141,16 @@ Slack is an online collaboration hub that can replace email to help people work 
 ### HELPFUL STUDENT RESOURCES
 
 ***Technical Resources** <br />
-Information on CSULA technical support resources for students: [Technical Support](http://www.calstatela.edu/cetl/technical-support-resources)
+Information on CSULA technical support resources for students: [Technical Support] (http://www.calstatela.edu/cetl/technical-support-resources)
 
 ***Student Support Services*** <br />
-Information on CSULA student support resources for students: [Student Services](http://www.calstatela.edu/cetl/student-support-resources)
+Information on CSULA student support resources for students: [Student Services] (http://www.calstatela.edu/cetl/student-support-resources)
 
 **Academic Support Services** <br />
-Information on CSULA academic support resources for students: [Academic Support](http://www.calstatela.edu/cetl/academic-support-resources)
+Information on CSULA academic support resources for students: [Academic Support] (http://www.calstatela.edu/cetl/academic-support-resources)
 
 **Student Handbook** <br />
-CSULA Student Handbook: [Student Handbook](http://www.calstatela.edu/ecst/cs/student-handbook)
+CSULA Student Handbook: [Student Handbook] (http://www.calstatela.edu/ecst/cs/student-handbook)
 
 ---
  ### COURSE & UNIVERSITY POLICIES
@@ -181,7 +181,7 @@ Mozilla Developer Network <br/>
 [Introduction Into Javascript]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) <br/>
 
 **ES6** <br/>
-[JS Next] (http://chimera.labs.oreilly.com/books/1234000001623/ch01.html) <br/>
+[Exploring ES6] (https://exploringjs.com/es6/index.html) <br/>
 [Understanding ES6] (https://leanpub.com/understandinges6/read#leanpub-auto-introduction) <br/>
 
 **Node** <br/>
