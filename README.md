@@ -141,16 +141,20 @@ Slack is an online collaboration hub that can replace email to help people work 
 ### HELPFUL STUDENT RESOURCES
 
 ***Technical Resources** <br />
-Information on CSULA technical support resources for students: [Technical Support] (http://www.calstatela.edu/cetl/technical-support-resources)
+Information on CSULA technical support resources for students: <br /> 
+(http://www.calstatela.edu/cetl/technical-support-resources)
 
 ***Student Support Services*** <br />
-Information on CSULA student support resources for students: [Student Services] (http://www.calstatela.edu/cetl/student-support-resources)
+Information on CSULA student support resources for students:  <br />
+(http://www.calstatela.edu/cetl/student-support-resources)
 
 **Academic Support Services** <br />
-Information on CSULA academic support resources for students: [Academic Support] (http://www.calstatela.edu/cetl/academic-support-resources)
+Information on CSULA academic support resources for students:  <br />
+(http://www.calstatela.edu/cetl/academic-support-resources)
 
 **Student Handbook** <br />
-CSULA Student Handbook: [Student Handbook] (http://www.calstatela.edu/ecst/cs/student-handbook)
+CSULA Student Handbook:  <br />
+(http://www.calstatela.edu/ecst/cs/student-handbook)
 
 ---
  ### COURSE & UNIVERSITY POLICIES
