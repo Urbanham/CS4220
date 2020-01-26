@@ -25,10 +25,10 @@ Email: cydneyauman@gmail.com
 <hr/>
 
 **Course Description:** <br/>
-This course will cover JavaScript and Node.js. It will begin with a discussion on the fundamentals of JavaScript, including syntax, functions, classes, callbacks/promises, async await, the eventloop, and more. Then the class will jump into teaching the Node.js platform through command line applications and then move onto building a Node.js Server.  This class will also discuss interacting with APIs via HTTP methods GET, POST, PUT and DELETE to execute operations. The course will have several homework assignments and quizzes.
+This course will cover JavaScript and Node.js. It will begin with a discussion on the fundamentals of JavaScript, including syntax, functions, classes, callbacks/promises, async await, the eventloop, and more. Then the class will jump into teaching the Node.js platform through command line applications and then move onto building a Node.js Server.  This class will also discuss interacting with APIs via HTTP requests to execute operations. The course will have several homework assignments and quizzes.
 
 **Course Structure** <br/>
-This course is to be conducted in face-to-face lectures.  All lecture materials including the syllabus, slides and examples will be available on Github. All homework/lab assignments and/or quizzes will be submitted via CSNS.  This course also offers a Slack channel to facilitate communication throughout the course.
+This course is to be conducted in face-to-face lectures and labs.  All lecture materials including the syllabus, slides and examples will be available on the class github website. All homework/lab assignments and/or quizzes will be submitted via CSNS.  This course also offers a Slack channel to facilitate communication throughout the course.
 
 **Recommended Prerequisites:** <br/>
 CS1220, CS2011, CS3220 <br/>
@@ -39,16 +39,17 @@ Eloquent Javascript - required
 http://eloquentjavascript.net/
 
 **Grading Policy:** <br/>
-Homework/Exercises/Lab/Quiz 50% <br/>
+Homework, Lab and Quizzes 50% <br/>
 Midterm 25% <br/>
-Final 25%
+Final 25% <br/>
+
 
 A -- 90 - 100 <br/>
 B -- 80 - 89 <br/>
 C -- 60 - 79 <br/>
 D -- 40 - 59 <br/>
 F -- below 40 <br/>
-*CSULA grades on a plus/minus scale*
+*grades use a plus/minus scale (for example a final grade of 90 is an A- and a final grade of 89 is a B+)*
 
 **Homework Submission** <br />
 Please submit all assignments via CSNS - http://csns.calstatela.edu/
@@ -60,9 +61,16 @@ Homework/Lab/Exercises may be submitted up to 24 hours late with a 15 point late
 
 <hr/>
 
+### SLACK
+Slack is an online collaboration hub that can replace email to help people work together seamlessly. Throughout the course you can reach me on Slack anytime, post to the public CS4220 channel and even get updates about what course materials have been published to this github repo.  It is much like Google Hangouts and Discord.
+
+[CS4220 Slack Channel Sign Up](https://join.slack.com/t/professor-auman/shared_invite/enQtODk2ODI3Mzk4OTc2LTA5MDI4MDkyYWRiOWY4M2M3MWY3NjNhMGYxYjdjNWJlM2ZmNzQ5MTRmMmFiN2Q4MDdjMzlkYmIxNzY3YzE5MjE)
+
+<hr/>
+
 ### Schedule:
 
-**Week 1**
+**Week 1 - 01/27**
  - Administrative Tasks <br/>
  - Installing Node.js
  - Setup development environment <br/>
@@ -70,14 +78,14 @@ Homework/Lab/Exercises may be submitted up to 24 hours late with a 15 point late
 
 <br/>
 
-**Week 2**
+**Week 2 - 02/03**
  - Javascript
  - Working with Arrays, Objects
  - Functions
 
 <br/>
 
-**Week 3**
+**Week 3 - 02/10**
  - Javascript
  - Arrays, Objects with Destructuring
  - Template Literals
@@ -85,7 +93,7 @@ Homework/Lab/Exercises may be submitted up to 24 hours late with a 15 point late
 
 <br/>
 
-**Week 4**
+**Week 4 - 02/17**
  - Javascript
  - Timers (setTimeout/setInterval)
  - Callbacks and Promises
@@ -95,21 +103,21 @@ Homework/Lab/Exercises may be submitted up to 24 hours late with a 15 point late
 
 <br/>
 
-**Week 5**
+**Week 5 - 02/24**
  - Introduction to Node.js
  - Reviewing the Event Loop
  - Working with File System and HTTP
 
 <br/>
 
-**Week 6**
+**Week 6 - 03/02**
  - Node.js
  - Working with Node Modules
  - Introduction into Command Line Applications
 
 <br/>
 
-**Week 7**
+**Week 7 - 03/09**
  - Node.js
  - Introduction to APIs
  - Building a Custom Node Module
@@ -117,34 +125,32 @@ Homework/Lab/Exercises may be submitted up to 24 hours late with a 15 point late
 
 <br/>
 
-**Week 8**
+**Week 8 - 03/16**
  - Node.js
  - Custom Node Modules and CLIs continued
  - Extended Lab for Midterm questions
 
 <br/>
 
-**Week 9**
+**Week 9 - 03/23**
  - MIDTERM DUE
 
 <br/>
 
-<hr/>
+ **Week 10 - 03/30**
+ - SPRING BREAK
 
-### SLACK
-Slack is an online collaboration hub that can replace email to help people work together seamlessly. Throughout the course you can reach me on Slack anytime, post to the public CS4220 channel and even get updates about what course materials have been published to this github repo.  It is much like Google Hangouts and Discord.
-
-[CS4220 Slack Channel Sign Up](https://join.slack.com/t/professor-auman/shared_invite/enQtODk2ODI3Mzk4OTc2LTA5MDI4MDkyYWRiOWY4M2M3MWY3NjNhMGYxYjdjNWJlM2ZmNzQ5MTRmMmFiN2Q4MDdjMzlkYmIxNzY3YzE5MjE)
+<br/>
 
 <hr/>
 
 ### HELPFUL STUDENT RESOURCES
 
 ***Technical Resources** <br />
-Information on CSULA technical support resources for students: <br /> 
+Information on CSULA technical support resources for students: <br />
 (http://www.calstatela.edu/cetl/technical-support-resources)
 
-***Student Support Services*** <br />
+**Student Support Services** <br />
 Information on CSULA student support resources for students:  <br />
 (http://www.calstatela.edu/cetl/student-support-resources)
 
@@ -153,14 +159,14 @@ Information on CSULA academic support resources for students:  <br />
 (http://www.calstatela.edu/cetl/academic-support-resources)
 
 **Student Handbook** <br />
-CSULA Student Handbook:  <br />
+ECST Student Handbook:  <br />
 (http://www.calstatela.edu/ecst/cs/student-handbook)
 
 ---
  ### COURSE & UNIVERSITY POLICIES
 
 **Academic Honesty/Student Conduct**
-All work you submit must be your own scholarly and creative efforts.  Any act of using ideas, words, or work of another person or persons as if they were one’s own is considered as cheating. Cheating will not be tolerated. Cheating on any assignment or exam will be taken seriously.  All parties involved will receive a grade of F for the course and be reported to the University Official. Check Appendix E - Student Conduct / Student Conduct Procedures to see student code of conduct in Cal State LA.
+All work you submit must be your own scholarly and creative efforts.  Any act of using ideas, words, or work of another person or persons as if they were one’s own is considered as cheating. Cheating on any assignment or exam will be taken seriously.  Please visit the Cal State LA, Judicial Affairs Office website where you will find examples of what constitutes cheating and plagiarism so that you become familiar with the guidelines, and consequences of not following them.
 
 **Student Handbook** <br />
 Information on student rights and responsibilities, academic honesty, standards of conduct, etc., can be found in Schedule of Classes for the current quarter visit the Cal State LA Schedule of Classes Information under Policies and Procedures.
