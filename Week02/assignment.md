@@ -41,7 +41,7 @@ Complete the problems below. 100 Points total. Please submit lab to CSNS.
 - It will set the values of 'firstName' and 'lastName' correctly based on the values in the 'name' array.
 - You may assume that the first item in the 'name' array is the first name and that the last item is the last name.
 - Consider some people have multiple middle names so the last item in the array **MUST** be accessed dynamically.
-- **DO NOT** use iterations.
+- **NO** For..In iteration is needed.  Please do not use.
 
 
       const dc = {
