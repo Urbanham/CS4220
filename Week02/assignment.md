@@ -27,7 +27,7 @@ Complete the problems below. 100 Points total. Please submit lab to CSNS.
 #### 2.  Write a function called flattenArray. (10 pts)
 - The flattenArray function accepts a nested array as an argument.
 - This function will turn the nested array of arrays and return the flat array.
-- **DO NOT** Array.flat().
+- **DO NOT** use the method Array.flat().
 
       const nested = [[1, 2], [3, 4, 5], [6], [7, 8, 9]];
       flattenArray(nested);
