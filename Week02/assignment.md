@@ -1,5 +1,5 @@
 ## Week 2 Assignment
- Lab Section - Due Monday 02/03/20 at 9:00pm <br/>
+ Lab Section - Due Monday 02/04/20 at 7:59am <br/>
  Homework Section - Due Monday 02/10/20 at 11:59pm <br/>
 
 Complete the problems below. 100 Points total. Please submit lab to CSNS.
