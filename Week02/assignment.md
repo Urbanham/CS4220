@@ -10,7 +10,7 @@ Complete the problems below. 100 Points total. Please submit lab to CSNS.
 
 <hr/>
 
-## LAB - Due 2/09 at 8:59pm
+## LAB - Due 2/04 at 7:59am
 #### 1.  Write a function called removeLetters. (10 pts)
 - The removeLetters function accepts two string arguments.
 - The first argument is a phrase and the second is a letter.
@@ -66,6 +66,7 @@ Complete the problems below. 100 Points total. Please submit lab to CSNS.
 
 #### 4. Write a function called countingLetters. (15 pts)
 - The countingLetters function accepts a string and array arguments.
+- The goal of the function is to count the occurance of letter in the sentence.
 - The return should be an object with the key as the lowercase letter and the count as the value.
 - The function should not include counts with anything from the punctions array.
 - There should not be duplicate letters in the object including counts for capital letters vs lowercase letters
@@ -93,6 +94,11 @@ Complete the problems below. 100 Points total. Please submit lab to CSNS.
       const b1 = [1, 2, 3]
       const b2 = ['1', '2', '3']
       compareArray(b1, b2);
+      EXPECTED OUTPUT (boolean): false
+      
+      const c1 = [1, 2, 3, 4]
+      const c2 = [1, 2, 3]
+      compareArray(c1, c2);
       EXPECTED OUTPUT (boolean): false
 
 
