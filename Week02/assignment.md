@@ -105,7 +105,7 @@ Complete the problems below. 100 Points total. Please submit lab to CSNS.
       const d1 = [1, 2, 3]
       const d2 = [3, 2, 1]
       compareArray(d1, d2)
-      EXPECTED OUTPUT (boolean): true
+      EXPECTED OUTPUT (boolean): false
 
 
 
