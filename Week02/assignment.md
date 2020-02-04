@@ -84,6 +84,7 @@ Complete the problems below. 100 Points total. Please submit lab to CSNS.
 #### 5.Write a Function called compareArrays. (15 pts)
 - The function takes two arrays as arguments.
 - The function compares the contents of each array to determine if they are equal and return a boolean.
+- For arrays to be equal they should contain the same element at the same index.
 - **DO NOT** us JSON.stringify()
 
       const a1 = [1, 2, 3]
@@ -100,6 +101,11 @@ Complete the problems below. 100 Points total. Please submit lab to CSNS.
       const c2 = [1, 2, 3]
       compareArray(c1, c2);
       EXPECTED OUTPUT (boolean): false
+      
+      const d1 = [1, 2, 3]
+      const d2 = [3, 2, 1]
+      compareArray(d1, d2)
+      EXPECTED OUTPUT (boolean): true
 
 
 
