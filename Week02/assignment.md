@@ -10,7 +10,7 @@ Complete the problems below. 100 Points total. Please submit lab to CSNS.
 
 <hr/>
 
-## LAB
+## LAB - Due 2/09 at 8:59pm
 #### 1.  Write a function called removeLetters. (10 pts)
 - The removeLetters function accepts two string arguments.
 - The first argument is a phrase and the second is a letter.
@@ -62,7 +62,7 @@ Complete the problems below. 100 Points total. Please submit lab to CSNS.
 
 <hr/>
 
-## HOMEWORK
+## HOMEWORK - Due 2/10 at 11:59pm
 
 #### 4. Write a function called countingLetters. (15 pts)
 - The countingLetters function accepts a string and array arguments.
