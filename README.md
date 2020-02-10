@@ -87,47 +87,48 @@ Slack is an online collaboration hub that can replace email to help people work 
 
 **Week 3 - 02/10**
  - Javascript
- - Arrays, Objects with Destructuring
  - Template Literals
- - Classes and Inheritance
+ - Higher Order Functions and Arrays
+ - Objects with Destructuring
 
 <br/>
 
 **Week 4 - 02/17**
  - Javascript
- - Timers (setTimeout/setInterval)
- - Callbacks and Promises
- - Async/Await
-  - Understanding the Event Loop
-
+ - Classes and Inheritance
+ - Constructors
+ - Static Methods
 
 <br/>
 
 **Week 5 - 02/24**
+ - Timers (setTimeout/setInterval)
+ - Callbacks and Promises
+ - Async/Await
+ - Understanding the Event Loop
+
+
+<br/>
+
+**Week 6 - 03/02**
  - Introduction to Node.js
  - Reviewing the Event Loop
  - Working with File System and HTTP
 
 <br/>
 
-**Week 6 - 03/02**
+**Week 7 - 03/09**
  - Node.js
  - Working with Node Modules
  - Introduction into Command Line Applications
 
 <br/>
 
-**Week 7 - 03/09**
+**Week 8 - 03/16**
  - Node.js
  - Introduction to APIs
  - Building a Custom Node Module
-
-
-<br/>
-
-**Week 8 - 03/16**
- - Node.js
- - Custom Node Modules and CLIs continued
+ - CLIs continued
  - Extended Lab for Midterm questions
 
 <br/>
