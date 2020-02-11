@@ -91,15 +91,15 @@ Complete the problems below. 50 Points total. Please submit lab to CSNS.
                 ];
 
                 EXPECTED OUTPUT (array of objects):
-                [
-                    { item: 'Sony PS4 Pro', price: 399.99, stock: 3, status: 'OK' },
-                    { item: 'Atari', price: 125, stock: 0, status: 'OUT OF STOCK' },
-                    { item: 'Microsoft Xbox One X', price: 499.99, stock: 1, status: 'OUT OF STOCK' },
-                    { item: 'Nintendo Switch', price: 299.99, stock: 4, status: 'OK' },
-                    { item: 'Sony PS2 Console', price: 299.99, stock: 1, status: 'OUT OF STOCK' },
-                    { item: 'Nintendo 64', price: 199.999, stock: 2, status: 'LOW' },
-                    { item: 'Sega Genesis', price: 104, stock: 0, status: 'OUT OF STOCK' }
-                ]
+                    [
+                        { item: 'Sony PS4 Pro', price: 399.99, stock: 3, status: 'OK' },
+                        { item: 'Atari', price: 125, stock: 0, status: 'OUT OF STOCK' },
+                        { item: 'Microsoft Xbox One X', price: 499.99, stock: 1, status: 'LOW' },
+                        { item: 'Nintendo Switch', price: 299.99, stock: 4, status: 'OK' },
+                        { item: 'Sony PS2 Console', price: 299.99, stock: 1, status: 'LOW' },
+                        { item: 'Nintendo 64', price: 199.999, stock: 2, status: 'LOW' },
+                        { item: 'Sega Genesis', price: 104, stock: 0, status: 'OUT OF STOCK' }
+                    ]
 
 #### 5. Write a function called calculateSalesTotals (20)
 - This function should return an array with new two new keys (sale and total)
