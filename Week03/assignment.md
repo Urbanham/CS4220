@@ -105,8 +105,8 @@ Complete the problems below. 50 Points total. Please submit lab to CSNS.
 - This function should return an array with new two new keys (sale and total)
 - The key 'sale' equals the calculated sale price an based on the discount and orginal price
 - The key 'total' equals the calculated total based stock, the original price and possible discount
-- For FULL credit the solution should use Object Destructuring on the objects in the sales array
-- For FULL credit the solution should use Object Default Values for the discount *key*. The default value would be 0.0.
+- For FULL credit the solution should use **Object Destructuring** on the objects in the sales array
+- For FULL credit the solution should use **Object Default Values** for the discount *key*. The default value would be 0.0.
 
             const sales = [
                 { item: 'PS4 Pro', stock: 3, original: 399.99 },
