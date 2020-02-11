@@ -1,6 +1,6 @@
 ## Week 3 Assignment
 
-Homework - Due TBA<br/>
+Homework - Due 02/17/20 at 11:59pm<br/>
 
 Complete the problems below. 50 Points total. Please submit lab to CSNS.
 
