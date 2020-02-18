@@ -64,7 +64,7 @@ Homework/Lab/Exercises may be submitted up to 24 hours late with a 15 point late
 ### SLACK
 Slack is an online collaboration hub that can replace email to help people work together seamlessly. Throughout the course you can reach me on Slack anytime, post to the public CS4220 channel and even get updates about what course materials have been published to this github repo.  It is much like Google Hangouts and Discord.
 
-[CS4220 Slack Channel Sign Up](https://join.slack.com/t/professor-auman/shared_invite/enQtODk2ODI3Mzk4OTc2LTA5MDI4MDkyYWRiOWY4M2M3MWY3NjNhMGYxYjdjNWJlM2ZmNzQ5MTRmMmFiN2Q4MDdjMzlkYmIxNzY3YzE5MjE)
+[CS4220 Slack Channel Sign Up](https://join.slack.com/t/professor-auman/shared_invite/enQtOTU2NzMyNzM5MzgxLWRkZGVmODZmMjkzM2NiNWFmYjdlZjc1MTdlYjBjOTJiYzMyNTMzMGE1NzM2MjNjZGZiMzNiZDc3MmExNDk2NTA)
 
 <hr/>
 
