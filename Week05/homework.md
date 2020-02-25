@@ -12,8 +12,8 @@ Requirements:
 **checkResponseTime(website, callaback)** <br/>
 This function accepts a website object. 
 - It uses a setTimeout() to mock checking a website's responseTime associated to it.
-- If it does then it callsback after the responseTime for each website object.
-- If it does not then it callsback with an error and default to 0ms.
+- If it does have a responseTime then it callsback after the responseTime for each website object.
+- If it does not have a responseTime then it callsbacks immediately (0ms) with an error.
 
 **websiteResponseTimes(websites)** <br/>
 This function accepts an array of objects.  
