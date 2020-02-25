@@ -16,8 +16,9 @@ This function accepts a website object.
 - If it does not then it callsback with an error and only the site name.
 
 **websiteResponseTimes(websites)** <br/>
-This function accepts an array of objects.  It prints the results **ONLY** when the entire todo array has been iterated.
-It should print each the working array and the error array separately.
+This function accepts an array of objects.  
+- It prints the results **ONLY** when the entire todo array has been iterated.
+- It should print each the working array and the error array separately.
 
 ```
     const websites = [
