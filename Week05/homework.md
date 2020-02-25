@@ -7,16 +7,15 @@ Complete all the problems below. 50 Points total. Please submit homework to CSNS
 ---
 
 #### 1. Using callbacks syntax write a set of functions that checks and makes a list of websites running. (20)
-Requirements
-- Use callbacks
-- Use setTimeout()
+Requirements:
 
-- checkResponseTime(website, callaback)
-This function accepts a website object. It checks if the site has a responseTime associated to it.
-If it does then it callsback after 90ms with the entire website object object.
-If it does not then it callsback with an error and only the site name.
+**checkResponseTime(website, callaback)** <br/>
+This function accepts a website object. 
+- It uses a setTimeout() to mock checking a website's responseTime associated to it.
+- If it does then it callsback after 90ms with the entire website object object.
+- If it does not then it callsback with an error and only the site name.
 
-- websiteResponseTimes(websites)
+**websiteResponseTimes(websites)** <br/>
 This function accepts an array of objects.  It prints the results **ONLY** when the entire todo array has been iterated.
 It should print each the working array and the error array separately.
 
@@ -62,17 +61,17 @@ It should print each the working array and the error array separately.
 
 
 #### 2. Using Promises syntax write a set of functions that performs operations the given db. (20)
-Requirements
+Requirements:
 - Use Promises syntax with .then() and .catch() syntax
 - Create a Promise with setTimeout() of 10ms in bucketTwitters() function.
 
-- bucketTwitters(account)
+**bucketTwitters(account)** <br/>
 This function accepts an account object.
 - If the account has a twitter handle then it is considered found
 - If the account does not have twitter handle it is considered missing
 - Use resolve/reject to handle the cases listed above
 
-- loopAccountsPromises(database)
+**loopAccountsPromises(database)** <br/>
 This function accepts an array of objects to be evaluated.
 - It prints an object with the keys 'found' and 'missing' which contain the array of found and missing twitter accounts.
 - It **ONLY** console.logs when **all** accounts been processed.
@@ -123,7 +122,7 @@ This function accepts an array of objects to be evaluated.
 
 
 #### 3. Using async/await syntax and bucketTwitters() function from Problem #2 that performs operations the given db. (10)
-Requirements
+Requirements:
 - Use async/await syntax with try/catch
 - Use the same database provides from Problem #2
 - Use the **same** Promise function (bucketTwitters()) created from Problem #2.
