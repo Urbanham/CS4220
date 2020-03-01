@@ -17,7 +17,7 @@ This function accepts a website object.
 
 **websiteResponseTimes(websites)** <br/>
 This function accepts an array of objects.  
-- It prints the results **ONLY** when the entire todo array has been iterated.
+- It prints the results **ONLY** when the entire websites array has been iterated.
 - It should print each the working array and the error array separately.
 
 ```
