@@ -1,4 +1,4 @@
-## Week 5 Homework - Due 03/04/20 at 11:59pm on CSNS
+## Week 5 Homework - Due 03/05/20 at 11:59pm on CSNS
 Complete all the problems below. 50 Points total. Please submit homework to CSNS.
 
 - For FULL credit use proper ES6 syntax including using let/const properly.
