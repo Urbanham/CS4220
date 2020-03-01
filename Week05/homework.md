@@ -1,4 +1,4 @@
-## Week 5 Homework - Due 03/02/20 at 11:59pm on CSNS
+## Week 5 Homework - Due 03/04/20 at 11:59pm on CSNS
 Complete all the problems below. 50 Points total. Please submit homework to CSNS.
 
 - For FULL credit use proper ES6 syntax including using let/const properly.
@@ -17,8 +17,9 @@ This function accepts a website object.
 
 **websiteResponseTimes(websites)** <br/>
 This function accepts an array of objects.  
-- It prints the results **ONLY** when the entire websites array has been iterated.
+- It prints the results **ONLY** when the entire websites array has been iterated. 
 - It should print each the working array and the error array separately.
+- Do NOT use setTimeout() for printing.
 
 ```
     const websites = [
@@ -76,6 +77,7 @@ This function accepts an account object.
 This function accepts an array of objects to be evaluated.
 - It prints an object with the keys 'found' and 'missing' which contain the array of found and missing twitter accounts.
 - It **ONLY** console.logs when **all** accounts been processed.
+- Do NOT use setTimeout() for console.log.
 
 ```
     const database = [
@@ -134,6 +136,7 @@ Requirements:
 This function accepts an array of objects to be evaluated.
 - It prints an object with the keys 'found' and 'missing' which contain the array of found and missing twitter accounts.
 - It **ONLY** console.logs when **all** accounts been processed.
+- Do NOT use setTimeout() for console.log.
 
 ```
     loopAccountsAsync(database);
