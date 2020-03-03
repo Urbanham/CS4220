@@ -1,4 +1,4 @@
-## Week 6 Lab - Due Monday 03/03/20 at 10AM
+## Week 6 Lab - Due Tuesday 03/03/20 at 10AM
 Complete all the problems below. 100 Points total. Please submit homework to CSNS.
 
 - For FULL credit use proper ES6 syntax including using let/const properly.
